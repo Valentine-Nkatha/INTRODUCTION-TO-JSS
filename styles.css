@@ -1,0 +1,108 @@
+#bigpicture {
+  display: flex;
+  object-position: right;
+  float: right;
+}
+.output {
+  display: flex;
+  justify-content: space-around;
+}
+#bigpicture2 {
+  display: flex;
+  object-position: right;
+  float: left;
+}
+#bigpicture3 {
+  display: flex;
+  object-position: right;
+  float: right;
+}
+#words {
+  object-position: flex;
+  float: right;
+  display: flex;
+  font-size: xx-large;
+}
+#start {
+  border-radius: 40%;
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+.end {
+  justify-content: space-around;
+  display: flex;
+  font-size: large;
+}
+#With {
+  justify-content: center;
+  display: flex;
+  font-size: x-large;
+  font-style: normal;
+  font: bolder;
+}
+#First {
+  font-size: xx-large;
+  font: bolder;
+}
+#data {
+  display: flex;
+  justify-content: space-around;
+  font-size: larger;
+}
+#box {
+  display: flex;
+  justify-content: space-around;
+  font-size: larger;
+}
+#container {
+  display: flex;
+  justify-content: right;
+  font-size: xx-large;
+}
+#BOX {
+  display: flex;
+  justify-content: right;
+  font-size: large;
+}
+#starts {
+  border-radius: 40%;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  float: right;
+}
+#Token {
+  justify-content: center;
+  display: flex;
+  font-size: x-large;
+  font-style: normal;
+  font: bolder;
+}
+#review {
+  justify-content: center;
+  display: flex;
+  font-size: x-large;
+  font-style: normal;
+  font: bolder;
+}
+#picture {
+  display: flex;
+  justify-content: space-around;
+}
+#Container {
+  display: flex;
+  justify-content: space-around;
+}
+.topnav {
+  display: flex;
+  justify-content: space-around;
+}
+.active {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#figure {
+  display: flex;
+  justify-content: space-around;
+}
